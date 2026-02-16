@@ -1,4 +1,3 @@
-Dockerfile
 # 1. ใช้ Image พื้นฐานเป็น Web Server (Nginx)
 FROM nginx:alpine
 
